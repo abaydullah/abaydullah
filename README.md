@@ -9,7 +9,10 @@
 
 
 #### Things I code with
-
+[![PHP Badge](https://img.shields.io/badge/-php-4F5B93?style=for-the-badge&labelColor=black&logo=php&logoColor=4F5B93)](#) 
+[![Livewire Badge](https://img.shields.io/badge/-livewire-000000?style=for-the-badge&labelColor=white&logo=livewire&logoColor=C05A89)](#) 
+[![Inertia Badge](https://img.shields.io/badge/-inertia-8D5AEA?style=for-the-badge&labelColor=white&logo=inertia&logoColor=8D5AEA)](#) 
+[![Alpine Badge](https://img.shields.io/badge/-alpine-white?style=for-the-badge&labelColor=white&logo=alpinedotjs&logoColor=77C1D2)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
